@@ -8,5 +8,11 @@
      "js": ["contentScript.js"]
    }
  ],
+ "icons": {
+    "16": "images/epiTerra16.png",
+    "32": "images/epiTerra32.png",
+    "48": "images/epiTerra48.png",
+    "128": "images/epiTerra128.png"
+ },
   "manifest_version": 2
 }

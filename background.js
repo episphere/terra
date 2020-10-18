@@ -1,1 +1,0 @@
-alert('hello world at '+Date())
