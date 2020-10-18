@@ -1,0 +1,12 @@
+{
+  "name": "epiTerra",
+  "version": "1.0",
+  "description": "epiSphere extension for Terra",
+  "content_scripts": [
+   {
+     "matches": ["https://*.app.terra.bio/*"],
+     "js": ["contentScript.js"]
+   }
+ ],
+  "manifest_version": 2
+}
